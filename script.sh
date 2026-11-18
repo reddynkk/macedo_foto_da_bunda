@@ -109,7 +109,7 @@ echo "=================================================="
 echo " PASSO 6: Conectando ao repositório remoto e Push"
 echo "=================================================="
 git remote remove origin 2>/dev/null || true
-git remote add origin "git@github.com:${GITHUB_USER}/meu-projeto.git"
+git remote add origin "git@github.com:${GITHUB_USER}/macedo_foto_da_bunda.git"
 git remote -v
 
 echo "Enviando código para o GitHub (branch main)..."
